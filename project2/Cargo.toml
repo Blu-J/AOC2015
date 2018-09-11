@@ -1,0 +1,6 @@
+[package]
+name = "project2"
+version = "0.1.0"
+authors = ["Justin Miller <justin.miller@logrhythm.com>"]
+
+[dependencies]

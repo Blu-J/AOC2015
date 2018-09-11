@@ -1,0 +1,6 @@
+[package]
+authors = ["Justin Miller <justin.miller@logrhythm.com>"]
+name = "project3"
+version = "0.1.0"
+[dependencies]
+error-chain = "*"
